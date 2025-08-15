@@ -1,7 +1,7 @@
 streamlit
 polars
 pandas
-ydata-profiling
+pandas-profiling
 scikit-learn
 joblib
 pyarrow
