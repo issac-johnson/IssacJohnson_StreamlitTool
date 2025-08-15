@@ -3,5 +3,9 @@ polars==1.32.3
 pandas==2.3.1
 pandas-profiling==3.2.0
 scikit-learn==1.1.2
-joblib==1.2.0
+joblib>=1.1.0,<1.2.0
 pyarrow==11.0.0
+rich==13.3.4
+pygments==2.10.0
+markdown-it-py==3.0.0
+setuptools==65.5.0
