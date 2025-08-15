@@ -1,7 +1,7 @@
-streamlit
-polars
-pandas
-pandas-profiling
-scikit-learn
-joblib
-pyarrow
+streamlit==1.48.1
+polars==1.32.3
+pandas==2.3.1
+pandas-profiling==3.2.0
+scikit-learn==1.1.2
+joblib==1.2.0
+pyarrow==11.0.0
