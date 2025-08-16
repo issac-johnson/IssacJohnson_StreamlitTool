@@ -28,9 +28,8 @@ The profiling functionality is implemented using **ydata-profiling**, as mention
 
 
 
-**Please note** : In the live Streamlit application, the profiling report is displayed directly within the interface for user convenience.
-
-
+**Please note** : In the live Streamlit application, the profiling report is displayed directly within the interface for user convenience,
+                  home.py serves as the entry point for the Streamlit application 
 
 ***3. ML Model Use-Case***
 
